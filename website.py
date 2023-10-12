@@ -1,2 +1,2 @@
 print("dark theme")
-print("something")
+print("thing")
